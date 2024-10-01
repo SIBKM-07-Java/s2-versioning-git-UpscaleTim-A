@@ -2,4 +2,6 @@
 
 ### Test for fast forward from child
 
+### test for three way merge from parent
+
 ### test for three way merge from child
